@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**root-hbx/root-hbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ComputerScience and Technology
+- 🌱 I’m currently learning CSAPP and Internet Programming...
+- 👯 I’m looking to collaborate on academic issues
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: XJTU_CS2201(H)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
