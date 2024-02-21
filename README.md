@@ -5,6 +5,13 @@
 4. I'm interested in **DL** and I have taken part in DL_Projects as well。
 5. I’m looking forward to collaborate with researchers on academic issues!
 
+### Email
+- huboxuan2004Ggmail.com
+- 3157726199@qq.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### If you are interested in my research, feel free to contact me!
 
 <!--
 **root-hbx/root-hbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-### If you are interested in my research, feel free to contact me!
