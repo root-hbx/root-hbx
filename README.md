@@ -6,7 +6,7 @@
 5. I’m looking forward to collaborate with researchers on academic issues!
 
 ### Email
-- huboxuan2004Ggmail.com
+- huboxuan2004@gmail.com
 - 3157726199@qq.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
