@@ -11,11 +11,18 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?root-hbx=anuraghazra&layout=compact)
+
+
 ### If you are interested in my research, feel free to contact me!
+
+
+
+
+
 
 <!--
 **root-hbx/root-hbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ComputerScience and Technology
