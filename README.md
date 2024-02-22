@@ -9,10 +9,6 @@
 - huboxuan2004@gmail.com
 - 3157726199@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root-hbx&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula" />
 </a>
@@ -39,4 +35,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: XJTU_CS2201(H)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root-hbx&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
