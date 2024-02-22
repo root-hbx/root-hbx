@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root-hbx&exclude_repo=root-hbx.github.io,The_WebSite_of_hbx,Deep-Learning_d2l_Tutorial&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root-hbx&exclude_repo=root-hbx.github.io,Deep-Learning_d2l_Tutorial&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
