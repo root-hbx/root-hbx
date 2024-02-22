@@ -1,13 +1,9 @@
-### Info
-1. I'm a student in CS2201(HONOR), of QianXuesen College, Xi'an Jiaotong University.
+# Info
+1. I'm a student in CS2201(HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
 2. I’m currently studying about CSAPP and Internet Programming.
 3. My research interests are about **Datacenter Networks, Congestion Control, Traffic Management**.
 4. I'm interested in **DL** and I have taken part in DL_Projects as well。
 5. I’m looking forward to collaborate with researchers on academic issues!
-
-### Email
-- huboxuan2004@gmail.com
-- 3157726199@qq.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula" />
@@ -17,10 +13,8 @@
 </a>
 
 ### If you are interested in my research, feel free to contact me!
-
-
-
-
+- huboxuan2004@gmail.com
+- 3157726199@qq.com
 
 
 <!--
