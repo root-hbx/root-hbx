@@ -1,9 +1,9 @@
 # Info
 1. I'm a student in CS2201(HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
-2. I’m currently studying about CSAPP and Internet Programming.
+2. I’m currently studying Internet Programming.
 3. My research interests are about **Datacenter Networks, Congestion Control, Traffic Management**.
-4. I'm interested in **DL** and I have taken part in DL_Projects as well.
-5. I’m looking forward to collaborate with researchers on academic issues!
+4. I'm interested in **Deep Learning** and I have taken part in DL_Projects as well.
+5. I’m looking forward to collaborate with kindred-spirit researchers on academic issues!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula" />
