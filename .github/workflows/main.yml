@@ -24,8 +24,8 @@ jobs:
       - uses: actions/checkout@v3
       # Import the target action: `release` branch in vn7n24fzkq/github-profile-summary-cards repository
       - run: |
-          git config --global user.name=hbx
-          git config --global user.email=3157726199@qq.com
+          git config --global user.name hbx
+          git config --global user.email 3157726199@qq.com
           git commit --allow-empty -m ""
           git push
     
