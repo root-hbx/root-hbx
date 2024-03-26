@@ -27,8 +27,6 @@ jobs:
           git config --global user.name hbx
           git config --global user.email 3157726199@qq.com
           git commit --allow-empty -m "Please fill my contribution graph_1 :)"
-          git commit --allow-empty -m "Please fill my contribution graph_2 :)"
-          git commit --allow-empty -m "Please fill my contribution graph_3 :)"
           git push
     
         
