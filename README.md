@@ -12,6 +12,18 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=root-hbx&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
 </a>
 
+# Education
+`2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___
+- Main Research Areas: Datacenter Networks , Congestion Control , Traffic Management
+
+`2024.3 - 2024.6` Visiting Student (Online) in Computer Science Department, ___Carnegie Mellon University___
+- Relevant Coursework: Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
+
+`2024.5 - 2024.7` Visiting Student in School of Computing, ___National University of Singapore___
+
+`2024.8 - 2024.12` Visiting Student in Department of Electrical Engineering and Computer Sciences, ___University of California, Berkeley___
+
+
 ### If you are interested in my research, feel free to contact me!
 - huboxuan2004@gmail.com
 - 3157726199@qq.com
