@@ -1,4 +1,4 @@
-# Info
+# Self-Introduction
 1. I'm a student in CS2201(HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
 2. I’m currently studying Internet Programming.
 3. My research interests are about **Datacenter Networks, Congestion Control, Traffic Management**.
