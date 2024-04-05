@@ -1,5 +1,5 @@
 # Self-Introduction
-1. A student in CS2201(HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
+1. A student in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
 2. I’m currently studying Internet Programming.
 3. My research interests are about **Datacenter Networks, Congestion Control, Traffic Management**.
 4. I'm interested in **Deep Learning** and I have taken part in DL_Projects as well.
@@ -16,7 +16,7 @@
 `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___
 - Main Research Areas: Datacenter Networks , Congestion Control , Traffic Management
 
-`2024.3 - 2024.6` Visiting Student (Online) in Computer Science Department, ___Carnegie Mellon University___
+`2024.3 - 2024.6` Visiting Student (_Online_) in Computer Science Department, ___Carnegie Mellon University___
 - Relevant Coursework: Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
 
 `2024.5 - 2024.7` Visiting Student in School of Computing, ___National University of Singapore___
