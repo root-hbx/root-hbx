@@ -21,7 +21,7 @@
 
 `2024.5 - 2024.7` Visiting Student in School of Computing, ___National University of Singapore___
 
-`2024.8 - 2024.12` Visiting Student in Department of Electrical Engineering and Computer Sciences, ___University of California, Berkeley___
+`2024.8 - 2024.12` Visiting Student in Department of EECS, ___University of California, Berkeley___
 
 
 ### If you are interested in my research, feel free to contact me!
