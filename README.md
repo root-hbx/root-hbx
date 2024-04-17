@@ -44,6 +44,7 @@
 [![ns3](https://img.shields.io/badge/-ns3-83B81A?style=flat-square&logo=ns3&logoColor=ffffff)](https://www.nsnam.org/)
 [![mininet](https://img.shields.io/badge/-mininet-0085CA?style=flat-square&logo=mininet&logoColor=ffffff)](https://mininet.org/)
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div>
 
 ### If you are interested in my research, feel free to contact me!
 - huboxuan2004@gmail.com
