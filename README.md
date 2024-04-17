@@ -33,14 +33,19 @@
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Unity](https://img.shields.io/badge/Unity-002244?style=flat-square&logo=unity&logoColor=ffffff)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
+
 [![ns3](https://img.shields.io/badge/-ns3-83B81A?style=flat-square&logo=ns3&logoColor=ffffff)](https://www.nsnam.org/)
 [![mininet](https://img.shields.io/badge/-mininet-0085CA?style=flat-square&logo=mininet&logoColor=ffffff)](https://mininet.org/)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,discord,linkedin,twitter,mongodb,instagram,idea,github,git" /><br>
 
