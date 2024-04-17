@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=root-hbx" /> </div>
+
 
 # Self-Introduction
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
@@ -27,6 +27,7 @@
 
 # Miscellaneous
 ### Skills
+[![C++](https://img.shields.io/badge/-C++-#00599C?style=flat-square&logo=c++&logoColor=ffffff)](https://www.python.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -35,6 +36,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
+
+
 
 ### If you are interested in my research, feel free to contact me!
 - huboxuan2004@gmail.com
