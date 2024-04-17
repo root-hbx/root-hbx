@@ -5,7 +5,7 @@
     <a href="https://twitter.com/Carrot_bxhu/"><img src="https://img.shields.io/badge/Twitter-@bxhu-blue" /></a>&emsp;
     <a href="https://www.instagram.com/huboxuanhu/"><img src="https://img.shields.io/badge/Instagram-@bxhu-pink" /></a>&emsp;
     <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=512BD4&style=flat" alt="访问量统计" />
   </div>
 
 # Self-Introduction
