@@ -27,7 +27,7 @@
 
 # Miscellaneous
 ### Skills
-[![C++](https://img.shields.io/badge/-C++-#00599C?style=flat-square&logo=c++&logoColor=ffffff)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=ffffff)](https://www.python.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
