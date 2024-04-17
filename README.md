@@ -27,7 +27,7 @@
 
 # Miscellaneous
 ### Skills
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=ffffff)](https://cplusplus.com/)
+[![Cplusplus](https://img.shields.io/badge/-Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://cplusplus.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-Csharp-512BD4?style=flat-square&logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
