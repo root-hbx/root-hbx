@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=root-hbx" /> </div>
 
 # Self-Introduction
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
