@@ -44,17 +44,12 @@
 [![ns3](https://img.shields.io/badge/-ns3-83B81A?style=flat-square&logo=ns3&logoColor=ffffff)](https://www.nsnam.org/)
 [![mininet](https://img.shields.io/badge/-mininet-0085CA?style=flat-square&logo=mininet&logoColor=ffffff)](https://mininet.org/)
 
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+
 ### Demo
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div>
 
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
 
-</div>
 
 
 
