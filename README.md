@@ -49,9 +49,9 @@
 ![MacOS Badge](https://img.shields.io/badge/MacOS-181717?logo=macos&logoColor=fff&style=flat)
 
 ### Demo
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div>
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div> -->
 
-<!-- just img 图片 -->
+<!-- just img 图片 forked from this man-->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
 
