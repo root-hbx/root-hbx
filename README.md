@@ -40,7 +40,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Unity](https://img.shields.io/badge/Unity-002244?style=flat-square&logo=unity&logoColor=ffffff)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
-[![ns3](https://img.shields.io/badge/-ns3-3776AB?style=flat-square&logo=ns3&logoColor=ffffff)](https://www.nsnam.org/)
+[![ns3](https://img.shields.io/badge/-ns3-83B81A?style=flat-square&logo=ns3&logoColor=ffffff)](https://www.nsnam.org/)
+[![mininet](https://img.shields.io/badge/-mininet-0085CA?style=flat-square&logo=mininet&logoColor=ffffff)](https://mininet.org/)
 
 
 ### If you are interested in my research, feel free to contact me!
