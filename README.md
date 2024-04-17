@@ -1,6 +1,6 @@
-# Self-Introduction
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 
+# Self-Introduction
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
 2. I’m currently studying Internet Programming, and Software Defined Networks.
 3. My research interests are about **Datacenter Networks, Congestion Control, Traffic Management**.
