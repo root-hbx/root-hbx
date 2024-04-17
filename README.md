@@ -47,7 +47,7 @@
 ### Demo
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=root-hbx&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=bxhu&theme=xcode" /> </div>
 
 ### If you are interested in my research, feel free to contact me!
 - huboxuan2004@gmail.com
