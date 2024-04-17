@@ -58,7 +58,7 @@
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/root-hbx/root-hbx/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/bxhu/bxhu/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
