@@ -1,4 +1,3 @@
-# Self-Introduction
 <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://root-hbx.github.io/"><img src="https://img.shields.io/badge/AcademicHomepage-@bxhu-yellow" /></a>&emsp;
@@ -9,6 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
+# Self-Introduction
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
 2. I’m currently studying Internet Programming, and Software Defined Networks.
 3. My research interests are about **Datacenter Networks, Congestion Control, Traffic Management**.
