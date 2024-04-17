@@ -23,6 +23,11 @@
 
 `2024.8 - 2024.12` Visiting Student in Department of EECS, ___University of California, Berkeley___
 
+### Skills
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-C%2B%2B-00add8?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 ### If you are interested in my research, feel free to contact me!
 - huboxuan2004@gmail.com
