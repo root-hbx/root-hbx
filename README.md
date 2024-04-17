@@ -24,16 +24,7 @@
 `2024.8 - 2024.12` Visiting Student in Department of EECS, ___University of California, Berkeley___
 
 # Miscellaneous
-<!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://root-hbx.github.io/"><img src="https://img.shields.io/badge/AcademicHomepage-@bxhu-yellow" /></a>&emsp;
-    <a href="https://root-hbx.github.io/The_Website_of_hbx/"><img src="https://img.shields.io/badge/Website-@bxhu-green" /></a>&emsp;
-    <a href="https://twitter.com/Carrot_bxhu/"><img src="https://img.shields.io/badge/Twitter-@bxhu-blue" /></a>&emsp;
-    <a href="https://www.instagram.com/huboxuanhu/"><img src="https://img.shields.io/badge/Instagram-@bxhu-pink" /></a>&emsp;
-    <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-  
+
 ### Skills
 [![Cplusplus](https://img.shields.io/badge/-Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://cplusplus.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -66,6 +57,16 @@
 </div>
 
 ### If you are interested in my research, feel free to contact me!
+<!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://root-hbx.github.io/"><img src="https://img.shields.io/badge/AcademicHomepage-@bxhu-yellow" /></a>&emsp;
+    <a href="https://root-hbx.github.io/The_Website_of_hbx/"><img src="https://img.shields.io/badge/Website-@bxhu-green" /></a>&emsp;
+    <a href="https://twitter.com/Carrot_bxhu/"><img src="https://img.shields.io/badge/Twitter-@bxhu-blue" /></a>&emsp;
+    <a href="https://www.instagram.com/huboxuanhu/"><img src="https://img.shields.io/badge/Instagram-@bxhu-pink" /></a>&emsp;
+    <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+  
 - huboxuan2004@gmail.com
 - 3157726199@qq.com
 
