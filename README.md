@@ -44,7 +44,7 @@
 [![ns3](https://img.shields.io/badge/-ns3-83B81A?style=flat-square&logo=ns3&logoColor=ffffff)](https://www.nsnam.org/)
 [![mininet](https://img.shields.io/badge/-mininet-0085CA?style=flat-square&logo=mininet&logoColor=ffffff)](https://mininet.org/)
 
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,discord,slack,twitter,mongodb,instagram,idea,git" /><br>
 
 ### Demo
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div>
