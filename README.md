@@ -46,8 +46,7 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,discord,linkedin,twitter,mongodb,instagram,idea,github,git" /><br>
+![MacOS Badge](https://img.shields.io/badge/macos-000000?logo=macos&logoColor=fff&style=flat)
 
 ### Demo
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div>
