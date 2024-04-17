@@ -55,6 +55,12 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
 
+<!-- first form 第一个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/root-hbx/root-hbx/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
 
 ### If you are interested in my research, feel free to contact me!
 - huboxuan2004@gmail.com
