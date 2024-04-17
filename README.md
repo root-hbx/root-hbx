@@ -1,4 +1,14 @@
 # Self-Introduction
+<!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://root-hbx.github.io/"><img src="https://img.shields.io/badge/AcademicHomepage-@bxhu-yellow" /></a>&emsp;
+    <a href="https://root-hbx.github.io/The_Website_of_hbx/"><img src="https://img.shields.io/badge/Website-@bxhu-green" /></a>&emsp;
+    <a href="https://twitter.com/Carrot_bxhu/"><img src="https://img.shields.io/badge/Twitter-@bxhu-blue" /></a>&emsp;
+    <a href="https://www.instagram.com/huboxuanhu/"><img src="https://img.shields.io/badge/Instagram-@bxhu-pink" /></a>&emsp;
+    <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
 2. I’m currently studying Internet Programming, and Software Defined Networks.
 3. My research interests are about **Datacenter Networks, Congestion Control, Traffic Management**.
@@ -49,23 +59,12 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![MacOS Badge](https://img.shields.io/badge/MacOS-181717?logo=macos&logoColor=fff&style=flat)
 
-### Demo
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div> -->
-
 <!-- just img 图片 forked from this man-->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
 
 ### If you are interested in my research, feel free to contact me!
-<!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://root-hbx.github.io/"><img src="https://img.shields.io/badge/AcademicHomepage-@bxhu-yellow" /></a>&emsp;
-    <a href="https://root-hbx.github.io/The_Website_of_hbx/"><img src="https://img.shields.io/badge/Website-@bxhu-green" /></a>&emsp;
-    <a href="https://twitter.com/Carrot_bxhu/"><img src="https://img.shields.io/badge/Twitter-@bxhu-blue" /></a>&emsp;
-    <a href="https://www.instagram.com/huboxuanhu/"><img src="https://img.shields.io/badge/Instagram-@bxhu-pink" /></a>&emsp;
-    <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
   
 - huboxuan2004@gmail.com
 - 3157726199@qq.com
