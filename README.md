@@ -1,6 +1,6 @@
 # Self-Introduction
-1. A student in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
-2. I’m currently studying Internet Programming.
+1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
+2. I’m currently studying Internet Programming, and Software Defined Networks.
 3. My research interests are about **Datacenter Networks, Congestion Control, Traffic Management**.
 4. I'm interested in **Deep Learning** and I have taken part in DL_Projects as well.
 5. Looking forward to collaborate with kindred-spirit researchers on academic issues!
@@ -23,11 +23,20 @@
 
 `2024.8 - 2024.12` Visiting Student in Department of EECS, ___University of California, Berkeley___
 
+# Miscellaneous
 ### Skills
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-00add8?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+
+### Hobby
+- table tennis 🏓
+- badminton 🏸
+- tennis 🎾
+- hiking ⛰️
+- swimming 🏊
+- fishing 🎣
 
 ### If you are interested in my research, feel free to contact me!
 - huboxuan2004@gmail.com
