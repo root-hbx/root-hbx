@@ -10,9 +10,9 @@
 
 # Self-Introduction
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
-2. I’m currently studying Internet Programming, and Software Defined Networks.
-3. My research interests are about **Datacenter Networks, Congestion Control, Traffic Management**.
-4. I'm interested in **Deep Learning** and I have taken part in DL_Projects as well.
+2. Currently studying Internet Programming, and Software Defined Networks.
+3. Research interests are mainly about **Datacenter Networks, Congestion Control, Traffic Management**.
+4. Being curious about **Deep Learning** and have taken part in DL_Projects as well.
 5. Looking forward to collaborate with kindred-spirit researchers on academic issues!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
