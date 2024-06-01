@@ -67,8 +67,8 @@
 
 ### If you are interested in my research, feel free to contact me!
   
-- huboxuan2004@gmail.com
-- 3157726199@qq.com
+- bxhu2004@berkeley.edu
+- 3157726199@stu.xjtu.edu.cn
 
 
 <!--
