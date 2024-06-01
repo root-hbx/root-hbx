@@ -27,7 +27,7 @@
 - Main Research Areas: Datacenter Networks , Congestion Control , Traffic Management
 
 `2024.3 - 2024.6` Visiting Student (Online) in Computer Science Department, ___Carnegie Mellon University___
-- Relevant Coursework: Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
+- Relevant Coursework: Amortized Analysis and Potential Functions, Machine Learning and Data Streams
 
 `2024.5 - 2024.7` Visiting Student in School of Computing, ___National University of Singapore___
 - Main Research Areas: Cloud Computing with Big Data && Distributed Data and AI Systems
