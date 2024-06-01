@@ -30,6 +30,7 @@
 - Relevant Coursework: Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
 
 `2024.5 - 2024.7` Visiting Student in School of Computing, ___National University of Singapore___
+- Main Research Areas: Cloud Computing with Big Data && Distributed Data and AI Systems
 
 `2024.8 - 2024.12` Visiting Student in Department of EECS, ___University of California, Berkeley___
 
