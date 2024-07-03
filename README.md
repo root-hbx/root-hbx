@@ -13,7 +13,7 @@
 2. Currently studying Internet Programming, and Software Defined Networks.
 3. Research interests are mainly about **Datacenter Networks, Congestion Control, Traffic Management**.
 4. Being curious about **Deep Learning** and have taken part in DL_Projects as well.
-5. Looking forward to collaborate with kindred-spirit researchers on academic issues!
+5. Looking forward to collaborate with kindred-spirit researchers!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula" />
