@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=512BD4&style=flat" alt="Visit" />
   </div>
 
-# Self-Introduction
+# Intro
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
 2. Currently focuses on __Datacenter Networks, dSDN and MultiCloud__.
 3. Being curious about **Deep Learning** as well.
