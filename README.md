@@ -13,10 +13,9 @@
 
 # Self-Introduction
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
-2. Currently studying Internet Programming, and Software Defined Networks.
-3. My research currently focuses on __Datacenter Networks, Software-Defined Network and Cloud Computing__.
-4. Being curious about **Deep Learning** as well.
-5. Looking forward to collaborate with kindred-spirit researchers!
+2. Currently focuses on __Datacenter Networks, dSDN and MultiCloud__.
+3. Being curious about **Deep Learning** as well.
+4. Looking forward to collaborate with kindred-spirit researchers!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula" />
