@@ -13,9 +13,8 @@
 
 # Intro
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
-2. Currently focuses on __Datacenter Networks, dSDN and MultiCloud__.
-3. Being curious about **Deep Learning** as well.
-4. Looking forward to collaborate with kindred-spirit researchers!
+2. Currently focuses on __Datacenter Networks, MultiCloud and MLSys__.
+3. Looking forward to collaborate with kindred-spirit researchers!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula" />
@@ -26,15 +25,16 @@
 
 # Education
 `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___
-- Main Research Areas: Datacenter Networks , Congestion Control , Traffic Management
+- Main Research Areas: Datacenter Networks && Congestion Control && Traffic Management
 
 `2024.3 - 2024.6` Visiting Student (Online) in Computer Science Department, ___Carnegie Mellon University___
-- Relevant Coursework: Amortized Analysis and Potential Functions, Machine Learning and Data Streams
+- Relevant Coursework: Machine Learning && Data Streams
 
 `2024.5 - 2024.7` Visiting Student in School of Computing, ___National University of Singapore___
 - Main Research Areas: Cloud Computing with Big Data && Distributed Data and AI Systems
 
 `2024.8 - 2024.12` Visiting Student in Department of EECS, ___University of California, Berkeley___
+- Main Research Areas: Sky Computing && Cloud-Native Systems && MLSys
 
 # Miscellaneous
 
