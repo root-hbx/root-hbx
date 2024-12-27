@@ -8,6 +8,7 @@
     <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp;
     <a href="https://openreview.net/profile?id=~Boxuan_Hu1"><img src="https://img.shields.io/badge/OpenReview-@bxhu-red" /></a>&emsp;
     <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp;
+    <a href="https://orcid.org/0009-0003-7778-4069"><img src="https://img.shields.io/badge/ORCID-@bxhu-green" /></a>&emsp;
 <!--     <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=512BD4&style=flat" alt="Visit" /> -->
   </div>
 
