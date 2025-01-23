@@ -13,15 +13,19 @@
   </div>
 
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
-2. Previous RA @sane-nus and @ucb-rise.
+2. Previous RA [@sane-nus](https://sane-nus.netlify.app/) and [@ucb-rise](https://sky.cs.berkeley.edu/).
 3. Focus on __Datacenter Networks, MultiCloud and MLSys__.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=root-hbx&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
-</a>
+<details>
+  <summary> More about my coding 🚀 </summary>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=root-hbx&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=root-hbx&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
+  </a>
+</details>
   
 - bxhu2004@berkeley.edu
 - 3157726199@stu.xjtu.edu.cn
