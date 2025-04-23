@@ -14,7 +14,11 @@
 
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
 2. Previous RA [@sane-nus](https://sane-nus.netlify.app/) and [@ucb-rise](https://sky.cs.berkeley.edu/).
-3. Focus on __Datacenter Networks, MultiCloud and MLSys__.
+3. Focus on __Datacenter Networks, MLSys, Mobile Computing and Wireless Networks__.
+4. Currently, I am actively working on:
+    - [open5gs-satellite](https://github.com/root-hbx/open5gs-satellite), an open-source satellite network service framework focusing on LEO mobility management.
+    - [ueransim-satellite](https://github.com/root-hbx/ueransim-satellite), an amazing 5G UE/RAN simulator for satellite network interacting with **open5gs-satellite**.
+    - [skypilot](https://github.com/skypilot-org/skypilot), an open-source framework for running AI and batch workloads on any infra.
 
 <details>
   <summary> More about my coding 🚀 </summary>
