@@ -1,24 +1,20 @@
-<!-- profile logo 个人资料徽标 -->
+<!-- profile logo -->
   <div>
 <!--     <a href="https://bxhu2004.com/"><img src="https://img.shields.io/badge/academicHomepage-@bxhu-yellow" /></a>&emsp;
     <a href="https://blog.bxhu2004.com/"><img src="https://img.shields.io/badge/myBlog-@bxhu-green" /></a>&emsp; -->
 <!--     <a href="https://twitter.com/Carrot_bxhu/"><img src="https://img.shields.io/badge/Twitter-@bxhu-black" /></a>&emsp; -->
 <!--     <a href="https://www.instagram.com/huboxuanhu/"><img src="https://img.shields.io/badge/Instagram-@bxhu-pink" /></a>&emsp; -->
 <!--     <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp; -->
-    <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp;
+<!--     <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp; -->
     <a href="https://openreview.net/profile?id=~Boxuan_Hu1"><img src="https://img.shields.io/badge/OpenReview-@bxhu-red" /></a>&emsp;
-    <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp;
+<!--     <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp; -->
     <a href="https://orcid.org/0009-0003-7778-4069"><img src="https://img.shields.io/badge/ORCID-@bxhu-green" /></a>&emsp;
 <!--     <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=512BD4&style=flat" alt="Visit" /> -->
   </div>
 
 1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
-2. Previous RA [@sane-nus](https://sane-nus.netlify.app/) and [@ucb-rise](https://sky.cs.berkeley.edu/).
-3. Focus on __Datacenter Networks, MLSys, Mobile Computing and Wireless Networks__.
-4. Currently, I am actively working on:
-    - [open5gs-satellite](https://github.com/root-hbx/open5gs-satellite), an open-source satellite network service framework focusing on LEO mobility management.
-    - [ueransim-satellite](https://github.com/root-hbx/ueransim-satellite), an amazing 5G UE/RAN simulator for satellite network interacting with **open5gs-satellite**.
-    - [skypilot](https://github.com/skypilot-org/skypilot), an open-source framework for running AI and batch workloads on any infra.
+2. Previous [@sane-nus](https://sane-nus.netlify.app/) and [@ucb-rise](https://sky.cs.berkeley.edu/).
+3. Datacenter Networks, MLSys, Mobile Computing and Space Networking.
 
 <details>
   <summary> More about my coding 🚀 </summary>
@@ -30,10 +26,8 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=root-hbx&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
   </a>
 </details>
-  
-- bxhu2004@berkeley.edu
-- 3157726199@stu.xjtu.edu.cn
 
+- bxhu2004 AT stu.xjtu.edu.cn
 
 <!--
 **root-hbx/root-hbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
