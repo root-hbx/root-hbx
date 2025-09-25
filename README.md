@@ -12,9 +12,10 @@
 <!--     <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=512BD4&style=flat" alt="Visit" /> -->
   </div>
 
-1. Undergraduate in CS2201 (HONOR), of QianXuesen College, **Xi'an Jiaotong University**.
-2. Previous [@sane-nus](https://sane-nus.netlify.app/) and [@ucb-rise](https://sky.cs.berkeley.edu/).
-3. Datacenter Networks, MLSys, Mobile Computing and Space Networking.
+1. Incoming PhD Student, INSC, **Tsinghua university**.
+2. Final-year Undergraduate in Honors Science Program, **Xi'an Jiaotong University**.
+3. Prev [@sane-nus](https://sane-nus.netlify.app/) and [@ucb-rise](https://sky.cs.berkeley.edu/).
+4. LEO Network, Distributed Systems, Datacenter Network.
 
 <details>
   <summary> More about my coding 🚀 </summary>
@@ -26,8 +27,6 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=root-hbx&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
   </a>
 </details>
-
-- bxhu2004 AT stu.xjtu.edu.cn
 
 <!--
 **root-hbx/root-hbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
