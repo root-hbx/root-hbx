@@ -12,7 +12,7 @@
 <!--     <img src="https://komarev.com/ghpvc/?username=root-hbx&label=Views&color=512BD4&style=flat" alt="Visit" /> -->
   </div>
 
-1. Incoming PhD Student, INSC, **Tsinghua university**.
+1. Incoming PhD Student, INSC, **Tsinghua University**.
 2. Final-year Undergraduate in Honors Science Program, **Xi'an Jiaotong University**.
 3. Prev [@sane-nus](https://sane-nus.netlify.app/) and [@ucb-rise](https://sky.cs.berkeley.edu/).
 4. LEO Network, Distributed Systems, Datacenter Network.
